@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\ProjectCS\ProjectCS\bin\Debug\netcoreapp3.1\ProjectCS.exe
+C:\Users\Usuario\source\repos\ProjectCS\ProjectCS\bin\Debug\netcoreapp3.1\ProjectCS.deps.json
+C:\Users\Usuario\source\repos\ProjectCS\ProjectCS\bin\Debug\netcoreapp3.1\ProjectCS.runtimeconfig.json
+C:\Users\Usuario\source\repos\ProjectCS\ProjectCS\bin\Debug\netcoreapp3.1\ProjectCS.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ProjectCS\ProjectCS\bin\Debug\netcoreapp3.1\ProjectCS.dll
+C:\Users\Usuario\source\repos\ProjectCS\ProjectCS\bin\Debug\netcoreapp3.1\ProjectCS.pdb
+C:\Users\Usuario\source\repos\ProjectCS\ProjectCS\obj\Debug\netcoreapp3.1\ProjectCS.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ProjectCS\ProjectCS\obj\Debug\netcoreapp3.1\ProjectCS.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ProjectCS\ProjectCS\obj\Debug\netcoreapp3.1\ProjectCS.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ProjectCS\ProjectCS\obj\Debug\netcoreapp3.1\ProjectCS.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ProjectCS\ProjectCS\obj\Debug\netcoreapp3.1\ProjectCS.dll
+C:\Users\Usuario\source\repos\ProjectCS\ProjectCS\obj\Debug\netcoreapp3.1\ProjectCS.pdb
+C:\Users\Usuario\source\repos\ProjectCS\ProjectCS\obj\Debug\netcoreapp3.1\ProjectCS.genruntimeconfig.cache
